@@ -1,0 +1,22 @@
+{
+  "prod": {
+    "valid": {
+      "username": "mithun@ta.com",
+      "password": "mithun"
+    },
+    "invalid": {
+      "username": "mithun@ta.com",
+      "password": "mithun"
+    }
+  },
+  "qa": {
+    "valid": {
+      "username": "mithun@ta.com",
+      "password": "mithun"
+    },
+    "invalid": {
+      "username": "mithun@ta.com",
+      "password": "mithun"
+    }
+  }
+}
