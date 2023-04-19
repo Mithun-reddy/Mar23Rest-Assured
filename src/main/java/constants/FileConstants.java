@@ -8,5 +8,5 @@ public class FileConstants {
 	public static final String ADD_DATA_VALIDATION_FILE_PATH = System.getProperty("user.dir")+"\\src\\main\\resources\\testdata\\adddatavalidation.json";
 	public static final String LOGIN_VALIDATION_FILE_PATH = System.getProperty("user.dir")+"\\src\\main\\resources\\testdata\\loginvalidation.json";
 	public static final String UPDATE_DATA_VALIDATION_FILE_PATH = System.getProperty("user.dir")+"\\src\\main\\resources\\testdata\\updatevalidation.json";
-
+	public static final String LOGIN_SCHEMA_FILE_PATH = System.getProperty("user.dir")+"\\src\\main\\java\\schema\\LoginResponseSchema.json";
 }
